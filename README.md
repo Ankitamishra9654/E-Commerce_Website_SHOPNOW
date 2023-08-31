@@ -1,6 +1,6 @@
 # E-Commerce_Website_SHOPNOW
 🌟 Welcome to ShopNow! Your One-Stop Destination for Exquisite Jewelry 🌟
-
+# Have a Glance : https://ankitamishra9654.github.io/E-Commerce_Website_SHOPNOW/
 ShopNow is an enchanting and visually captivating e-commerce website dedicated to showcasing and selling the most dazzling collection of jewelry pieces. Embark on a mesmerizing journey through our virtual boutique, where every click brings you closer to the shimmering elegance of fine craftsmanship.
 
 📌 A Haven for Jewelry Lovers:
